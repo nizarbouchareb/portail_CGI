@@ -1,2 +1,4 @@
 #all .class files
 *.class
+*.java
+*.xml
